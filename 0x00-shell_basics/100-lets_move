@@ -1,0 +1,6 @@
+#!/bin/bash
+$(pwd)
+mkdir -p /tmp/u
+$current_directory
+"$file" =~ ^[A-Z]
+mv "$file" /tmp/u
