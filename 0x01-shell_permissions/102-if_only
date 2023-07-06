@@ -1,2 +1,2 @@
 #!/bin/bash
-if hello guillaume then chown file betty
+chown betty hello fi guillaume
