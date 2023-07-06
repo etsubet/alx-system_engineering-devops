@@ -1,2 +1,2 @@
 #!/bin/bash
-play_star_wars_VI 
+telnet towel.blinkenlights.nl 
