@@ -1,0 +1,2 @@
+#!/bin/bash
+if hello guillaume then chown file betty
