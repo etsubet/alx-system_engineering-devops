@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | sed -e 's/[^[:alnum:]]/ /g' | sort -n | grep -v '^$' | tr ' ' ','
+ls -map | sort
