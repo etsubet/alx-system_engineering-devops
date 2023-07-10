@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /ets/passwd
+echo "cat /ets/passwd"
